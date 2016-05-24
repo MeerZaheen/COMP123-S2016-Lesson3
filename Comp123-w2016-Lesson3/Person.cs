@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Comp123_s2016_Lesson3
 {
-    class Person
+    public class Person
     {
+        // Private Instance Variables
+        private string _name;
     }
 }
