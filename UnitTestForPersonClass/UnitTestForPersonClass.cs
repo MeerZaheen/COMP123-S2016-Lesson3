@@ -2,6 +2,7 @@
 using System.Text;
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Comp123_s2016_Lesson3;
 
 namespace UnitTestForLesson3
 {
